@@ -56,7 +56,7 @@ function App() {
           </div>
         </div>
       </section>
-      <p className='text-center mt-12'>By <a href="https://github.com/Aadityansha" target="_blank" className='font-bold'>Aadityansha Patel</a>. fork on <a className='font-bold' href="" target='_blank'>Github</a></p>
+      <p className="text-center mt-12">By <a href="https://github.com/Aadityansha" target="_blank" className="font-bold">Aadityansha Patel</a>. fork on <a className="font-bold" href="https://github.com/Aadityansha/Lorem-Ipsum-Generator" target="_blank">Github</a></p>
     </>
   )
 }
